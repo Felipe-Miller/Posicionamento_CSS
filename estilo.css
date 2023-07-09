@@ -1,0 +1,261 @@
+/* ESTILIZAÇÃO PÁGINA 1 -> */
+
+.bloco {
+    background-color: gray;
+    height: 600px;
+    width: 600px;
+    margin: 15px;
+    z-index: 1;
+    position: absolute;
+}
+
+.bloco1 {
+    background-color: blue;
+    height: 580px;
+    width: 400px;
+    margin: 15px;
+    position: relative;
+    top: 25px;
+    left: 100px;
+    z-index: 2;
+}
+
+.bloco2 {
+    background-color: red;
+    height: 430px;
+    width: 300px;
+    margin: 15px;
+    position: relative;
+    bottom: 493px;
+    left: 150px;
+    z-index: 3;
+}
+
+.bloco3 {
+    background-color: black;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    position: relative;
+    bottom: 875px;
+    left: 200px;
+    z-index: 4;
+}
+
+.bloco4 {
+    background-color: green;
+    height: 150px;
+    width: 100px;
+    margin: 15px;
+    position: relative;
+    bottom: 1115px;
+    left: 250px;
+    z-index: 5;
+}
+
+.bloco5 {
+    background-color: yellow;
+    height: 75px;
+    width: 50px;
+    margin: 15px;
+    position: relative;
+    bottom: 1240px;
+    left: 275px;
+    z-index: 6;
+}
+
+/* ESTILIZAÇÃO PÁGINA 2 -> */
+
+.blococinzafundo {
+    background-color: gray;
+    height: 600px;
+    width: 600px;
+    margin: 15px;
+}
+
+.bloquinho1 {
+    background-color: black;
+    height: 230px;
+    width: 230px;
+}
+
+.bloquinho2 {
+    background-color: black;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    top: 140px;
+}
+
+.bloquinho3 {
+    background-color: black;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    left: 370px;
+    bottom: 460px;
+}
+
+.bloquinho4 {
+    background-color: black;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    left: 370px;
+    bottom: 320px;
+}
+
+/* ESTILIZAÇÃO PÁGINA 3 -> */
+
+.maiusculo {
+    background-color: black;
+    height: 260px;
+    width: 600px;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+#maiusculo {
+    color: white;
+    margin: 10px;
+    font-size: large;
+    position: relative;
+    top: 23px;
+}
+
+.minusculo {
+    background-color: black;
+    height: 220px;
+    width: 600px;
+    margin: 15px;
+    border: solid 3px red;
+    overflow: scroll;
+}
+
+#minusculo {
+    color: white;
+    margin: 10px;
+    font-size: large;    
+}
+
+/* ESTILIZAÇÃO PÁGINA 4 -> */
+/* Fundo -> */
+
+.blocofundocinza1 {
+    background-color: gray;
+    height: 600px;
+    width: 600px;
+    margin: 15px;
+    
+       ;
+}
+
+/* Lado superior -> */
+
+.bloquinho5 {
+    background-color: black;
+    height: 100px;
+    width: 100px;   
+}
+
+.bloquinho6 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 5px;
+}
+
+.bloquinho7 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 10px;
+}
+
+.bloquinho8 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 105px;
+    bottom: 300px;
+}
+
+.bloquinho9 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    left: 105px;
+    bottom: 295px;   
+}
+
+.bloquinho10 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    left: 210px;
+    bottom: 500px;  
+}
+
+/* Lado Inferior -> */ 
+
+.bloquinho11 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 100px;
+    left: 500px;     
+}
+
+.bloquinho12 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 200px;
+    left: 395px;     
+}
+
+.bloquinho13 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 300px;
+    left: 290px;     
+}
+
+.bloquinho14 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 505px;
+    left: 500px;     
+}
+
+.bloquinho15 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 710px;
+    left: 500px;     
+}
+
+.bloquinho16 {
+    background-color: black;
+    height: 100px;
+    width: 100px; 
+    position: relative;
+    bottom: 705px;
+    left: 395px;     
+}
+
+
+
